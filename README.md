@@ -6,6 +6,8 @@
 
   Uses a google api to search for books. Users can save the books to their profile.
 
+  [Live demo](https://immense-waters-51597.herokuapp.com/)
+
   ![Screenshot](/client/public/home.png)
   
   ## Table of Contents
